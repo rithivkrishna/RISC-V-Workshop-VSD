@@ -1,7 +1,15 @@
 # RISC-V-Workshop-VSD
 
 ## Day-1
-1.Step-1
-Log in with your GitHub account.
-Click the green Code button.
-Select Open with Codespaces → New codespace.
+
+Step 1:
+Create a new GitHub repository.
+Open Codespaces and create a new codespace.
+
+Verify the setup by running:
+
+riscv64-unknown-elf-gcc --version
+spike --version
+iverilog -V
+
+
