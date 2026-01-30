@@ -6,10 +6,18 @@
 - Create a new GitHub repository.  
 - Open **Codespaces** and create a new codespace.  
 - Verify the setup by running:
-```bash
+
+#!/bin/bash
 riscv64-unknown-elf-gcc --version
 spike --version
 iverilog -V
+exit
+
+
+
+*
+
+
 
 
 
