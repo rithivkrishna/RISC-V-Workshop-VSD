@@ -2,14 +2,15 @@
 
 ## Day-1
 
-Step 1:
-Create a new GitHub repository.
-Open Codespaces and create a new codespace.
+**Step 1:**  
+- Create a new GitHub repository.  
+- Open **Codespaces** and create a new codespace.  
+- Verify the setup by running:
+```bash
 
-Verify the setup by running:
 
-riscv64-unknown-elf-gcc --version
-spike --version
-iverilog -V
+
+
+
 
 
